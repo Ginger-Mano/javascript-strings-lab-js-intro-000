@@ -1,3 +1,3 @@
 var greeting = 'Hello, everybody!'
 
-const greetSpecialGuest = ''
+const greetSpecialGuest = 'Hello guest!'
